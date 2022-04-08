@@ -1,6 +1,4 @@
-# Friday Spark SQL Exercises
-
-Working on [Exercises for Apache Spark™ and Scala Workshops](https://jaceklaskowski.github.io/spark-workshop/exercises/):
+# Exercises list:
 
 1. [Limiting collect_set Standard Function](https://jaceklaskowski.github.io/spark-workshop/exercises/sql/limiting-collect_set-standard-function.html)
 1. [Converting Arrays of Strings to String](https://jaceklaskowski.github.io/spark-workshop/exercises/spark-sql-exercise-Converting-Arrays-of-Strings-to-String.html)
